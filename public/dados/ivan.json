@@ -1,0 +1,685 @@
+{
+  "cliente": "Dr. Ivan Rollemberg",
+  "projeto": "Dr. Ivan Rollemberg · Método Human e Health Business (FOCO › Comunidade Saúde)",
+  "atualizadoEm": "2026-10-03",
+  "resumo": "Autoridade em gestão, crescimento e alta performance para negócios da saúde, construída sobre a Human Clinic. Em outubro, a comunidade gratuita recebe 12 disparos de 05 a 30/10 que levam o profissional do diagnóstico à ação, e a mentoria aparece só por iniciativa de quem pede.",
+  "funil": [
+    "Entrada na comunidade",
+    "Reconhecer a dificuldade",
+    "Observar a operação",
+    "Aplicar uma ferramenta",
+    "Testar uma decisão",
+    "Acompanhar a ação",
+    "Conhecer a mentoria"
+  ],
+  "frentes": [
+    {
+      "id": "comunidade",
+      "nome": "Comunidade e disparos",
+      "icone": "i-pessoas",
+      "situacao": "Aguardando aprovação",
+      "tom": "revisao",
+      "estado": "12 disparos de 05 a 30/10 (HB01 a HB12), três por semana às 10h e 18h, cada um com mensagem pronta, objetivo, CTA e regra de acompanhamento. Todos estão como Pendente de aprovação.",
+      "proximo": "Aprovar HB01 e a enquete ENQ01 antes de 05/10 às 10h e definir quem agenda e envia os disparos.",
+      "responsavel": "Administração"
+    },
+    {
+      "id": "producao",
+      "nome": "Produção de peças",
+      "icone": "i-video",
+      "situacao": "A produzir",
+      "tom": "ajuste",
+      "estado": "10 peças ligadas aos disparos: 3 enquetes, 2 vídeos e 2 áudios do Dr. Ivan, e 3 peças de arte (card, sequência de 3 cards e ficha). Nenhuma está pronta; cada uma tem uma alternativa de texto se atrasar.",
+      "proximo": "Marcar a gravação do Dr. Ivan, começando por VID01 (para 07/10) e AUD01 (13/10), e iniciar CARD01 para 09/10.",
+      "responsavel": "Dr. Ivan, criação e edição"
+    },
+    {
+      "id": "oferta",
+      "nome": "Mentoria Health (oferta)",
+      "icone": "i-grafico",
+      "situacao": "Condições a confirmar",
+      "tom": "ajuste",
+      "estado": "O preço e o escopo de setembro não valem para outubro. HB12 (30/10) só convida a enviar MENTORIA no privado, sem preço, bônus, prazo ou vagas.",
+      "proximo": "Confirmar condições atuais e quem atende no privado até 28/10. Sem isso, usar a alternativa AP06 no lugar de HB12."
+    },
+    {
+      "id": "posicionamento",
+      "nome": "Posicionamento e narrativa",
+      "icone": "i-alvo",
+      "situacao": "Direção definida",
+      "tom": "aprovado",
+      "estado": "Autoridade empresarial em saúde ancorada na Human Clinic: gestão, vendas, marketing, equipe e crescimento, em tom comercial e direto. Sem estética de infoproduto e sem números ou depoimentos inventados.",
+      "proximo": "Aplicar em todas as peças: mensagens curtas, no máximo 1 emoji, pouco negrito e nada de caixa alta."
+    },
+    {
+      "id": "aquisicao",
+      "nome": "Aquisição e permanência",
+      "icone": "i-megafone",
+      "situacao": "A validar",
+      "tom": "neutro",
+      "estado": "Captação 100% orgânica, sem tráfego pago: base própria, Instagram do Dr. Ivan, parceiros, QR Codes e indicação. Outubro não tem evento nem campanha marcados.",
+      "proximo": "Registrar a linha de base de membros em 05/10 e acompanhar entradas e saídas a cada checkpoint."
+    },
+    {
+      "id": "medicao",
+      "nome": "Acompanhamento e medição",
+      "icone": "i-ciclo",
+      "situacao": "Checkpoints marcados",
+      "tom": "neutro",
+      "estado": "Registro de votos, reações, saídas, dúvidas e pedidos comerciais em 06, 09, 16, 23, 29 e 30/10, mais a revisão de horários em 19/10. Não há dado de retenção de áudio e vídeo nem de salvamentos no WhatsApp.",
+      "proximo": "Definir quem registra e onde, antes do primeiro checkpoint (06/10)."
+    }
+  ],
+  "decisoes": [
+    {
+      "id": "DC-01",
+      "tipo": "Posicionamento",
+      "decisao": "Nome da comunidade gratuita e nome da oferta paga nas mensagens",
+      "impacto": "A planilha chama a comunidade de \"Health Business\" (AP01) e a mentoria de \"Mentoria Health\" (HB12, AP03). No posicionamento, a comunidade é o Método Human e Health Business é o produto pago: os dois não são sinônimos.",
+      "responsavel": "Dr. Ivan + administração",
+      "prazo": "2026-10-05",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-02",
+      "tipo": "Aprovação",
+      "decisao": "Aprovação editorial dos 12 disparos (todos estão Pendentes)",
+      "impacto": "HB01 sai em 05/10 às 10h. Aprovação editorial e publicação são etapas distintas.",
+      "responsavel": "Dr. Ivan",
+      "prazo": "2026-10-05",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-03",
+      "tipo": "Operação",
+      "decisao": "Designar as pessoas nos papéis: administração (publica e acompanha), criação, edição e comercial",
+      "impacto": "A planilha propõe os papéis, mas não os nomes. Sem isso, ninguém agenda os disparos nem produz os cards.",
+      "responsavel": "Dr. Ivan + FOCO",
+      "prazo": "2026-10-05",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-04",
+      "tipo": "Produção",
+      "decisao": "Janela de gravação do Dr. Ivan para VID01, AUD01, VID02 e AUD02",
+      "impacto": "VID01 precisa estar legendado para 07/10 e AUD01 para 13/10. Sem gravação, entra a alternativa em texto.",
+      "responsavel": "Dr. Ivan",
+      "prazo": "2026-10-05",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-05",
+      "tipo": "Comunidade",
+      "decisao": "Linha de base de membros em 05/10 e meta do ciclo",
+      "impacto": "Sem a base inicial não há como medir crescimento líquido nem permanência. A referência de planejamento é 2.500 membros, mas a base atual não consta na planilha.",
+      "responsavel": "Administração",
+      "prazo": "2026-10-05",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-06",
+      "tipo": "Calendário",
+      "decisao": "Confirmar se há live, palestra ou evento em outubro (por exemplo, Poder do Network Doctors)",
+      "impacto": "O calendário foi montado sem evento ou campanha. Qualquer inclusão muda a cadência e o HB12.",
+      "responsavel": "Dr. Ivan",
+      "prazo": "2026-10-05",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-07",
+      "tipo": "Oferta",
+      "decisao": "Condições atuais da mentoria (preço, escopo e garantia) e responsável pelo atendimento privado",
+      "impacto": "O HB12 convida a enviar MENTORIA no privado; a resposta AP03 só pode ser usada com responsável e condições confirmados. Sem isso, usar a alternativa AP06.",
+      "responsavel": "Dr. Ivan + comercial",
+      "prazo": "2026-10-28",
+      "status": "Aberta"
+    },
+    {
+      "id": "DC-08",
+      "tipo": "Claims",
+      "decisao": "Confirmar os números antes de virar claim: faturamento total, idade da Human e quantas vezes houve R$ 1 milhão em um dia",
+      "impacto": "Os disparos de outubro não usam esses números. Para qualquer peça futura, só valem números com lastro no que aconteceu na Human.",
+      "responsavel": "Dr. Ivan",
+      "prazo": null,
+      "status": "Aberta"
+    }
+  ],
+  "operacao": {
+    "fluxo": [
+      {
+        "etapa": "Aprovação",
+        "texto": "O Dr. Ivan valida o conteúdo de cada disparo. Aprovação editorial e publicação são etapas distintas."
+      },
+      {
+        "etapa": "Produção",
+        "texto": "O Dr. Ivan grava vídeos e áudios; a criação produz cards e fichas; a edição legenda os vídeos."
+      },
+      {
+        "etapa": "Disparo",
+        "texto": "A administração agenda e envia às 10h ou 18h (Brasília), com a alternativa pronta se a peça atrasar."
+      },
+      {
+        "etapa": "Acompanhamento",
+        "texto": "Em cada checkpoint, registrar votos, reações, saídas, dúvidas e pedidos comerciais, e ajustar os próximos envios."
+      }
+    ],
+    "regras": [
+      {
+        "tema": "Calendário",
+        "orientacao": "5 a 30 de outubro de 2026. Três disparos por semana; sem evento ou campanha marcada, conforme informado."
+      },
+      {
+        "tema": "Horários",
+        "orientacao": "10h e 18h, horário de Brasília. Hipóteses iniciais, sem histórico de melhor horário. Rever após duas semanas com dados comparáveis."
+      },
+      {
+        "tema": "Negrito no WhatsApp",
+        "orientacao": "Os asteriscos simples da coluna Mensagem pronta fazem parte do texto de envio: *trecho importante*. Copiar o texto como está."
+      },
+      {
+        "tema": "Emojis",
+        "orientacao": "Uso pontual em HB01, HB03, HB07 e HB09. No máximo um emoji por mensagem."
+      },
+      {
+        "tema": "Produção",
+        "orientacao": "A aba Produção contém roteiros, textos dos cards, opções das enquetes e alternativas de envio. Se uma peça não estiver pronta, substituir o texto e o formato juntos."
+      },
+      {
+        "tema": "Responsabilidades",
+        "orientacao": "Papéis propostos: administração publica e acompanha; Ivan valida conteúdo e grava; criação produz cards; edição legenda vídeos; comercial responde a quem pedir informações. Designar as pessoas na operação."
+      },
+      {
+        "tema": "Acompanhamento",
+        "orientacao": "Em 09, 16, 23 e 30/10, registrar votos, reações, saídas, dúvidas e pedidos comerciais. Visualizações somente quando disponíveis. Não supor dados de retenção de áudio/vídeo ou de salvamentos no WhatsApp."
+      },
+      {
+        "tema": "Ajuste por resposta",
+        "orientacao": "Se votos e reações caírem por dois envios comparáveis e as saídas crescerem, revisar relevância e reduzir um envio seguinte. Se houver dúvidas recorrentes, usar o tema na próxima produção ainda não gravada. Não alterar promessas já feitas de retorno."
+      },
+      {
+        "tema": "Continuidade",
+        "orientacao": "Jornada: reconhecer dificuldade, observar operação, aplicar uma ferramenta, testar uma decisão, acompanhar a ação e conhecer a mentoria por iniciativa própria. Objetivo: relacionamento útil e conversas qualificadas."
+      },
+      {
+        "tema": "Oferta",
+        "orientacao": "O preço e o escopo de setembro não foram tratados como vigentes em outubro. Não anunciar fechamento, últimas vagas ou bônus. Confirmar o contato comercial para HB12."
+      },
+      {
+        "tema": "Publicação",
+        "orientacao": "Material editorial para revisão. Gravações e peças ainda devem ser produzidas. Aprovação editorial e publicação são etapas distintas. As alternativas permitem enviar conteúdo útil quando houver atraso de produção."
+      }
+    ]
+  },
+  "disparos": [
+    {
+      "codigo": "HB01",
+      "data": "2026-10-05",
+      "dia": "Segunda",
+      "hora": "10:00",
+      "etapa": "Diagnóstico",
+      "tema": "Prioridade de outubro",
+      "gancho": "*Qual assunto precisa entrar na sua agenda de gestão neste mês?* 🗳️",
+      "mensagem": "*Qual assunto precisa entrar na sua agenda de gestão neste mês?* 🗳️\n\nVamos trabalhar situações da rotina de clínicas e consultórios: decisões que dependem do dono, custos, equipe e acompanhamento dos números.\n\nEscolha na enquete o ponto que mais pede atenção hoje. A resposta vai ajudar a equipe a entender as prioridades de quem está aqui.",
+      "dependencias": "Configurar enquete ENQ01; uma resposta por pessoa.",
+      "objetivo": "Reconhecimento da própria dificuldade; registrar prioridades.",
+      "cta": "Votar na enquete.",
+      "formato": "Enquete de diagnóstico",
+      "criativo": "ENQ01",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Votos por opção; participantes únicos.",
+      "regra": "Registrar votos em 24h. Usar a prioridade mais votada para escolher a ênfase da abertura do vídeo HB02; não afirmar um resultado sem conferir.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB02",
+      "data": "2026-10-07",
+      "dia": "Quarta",
+      "hora": "18:00",
+      "etapa": "Diagnóstico",
+      "tema": "Cinco dias fora da clínica",
+      "gancho": "Se você precisasse ficar cinco dias fora, *quais decisões esperariam sua volta?*",
+      "mensagem": "Se você precisasse ficar cinco dias fora, *quais decisões esperariam sua volta?*\n\nNo vídeo, proponho um exercício para encontrar uma dependência da operação que você pode começar a organizar.\n\nAssista e anote uma decisão que costuma voltar para você. Essa será a sua referência para os próximos conteúdos.",
+      "dependencias": "Gravar e legendar VID01.",
+      "objetivo": "Dar confiança por meio de raciocínio prático; identificar uma dependência.",
+      "cta": "Anotar uma decisão que depende do dono.",
+      "formato": "Vídeo vertical de 45 a 60s",
+      "criativo": "VID01",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Reações e dúvidas espontâneas; visualizações quando disponíveis.",
+      "regra": "Ivan fala diretamente à câmera. Conectar à enquete sem inventar a resposta mais votada. Se não houver vídeo, usar a alternativa textual de VID01.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB03",
+      "data": "2026-10-09",
+      "dia": "Sexta",
+      "hora": "10:00",
+      "etapa": "Ferramenta",
+      "tema": "Uma despesa sob revisão",
+      "gancho": "Separe uma despesa da clínica para revisar hoje. Pode ser um contrato recorrente, um insumo ou um serviço terceirizado.",
+      "mensagem": "Separe uma despesa da clínica para revisar hoje. Pode ser um contrato recorrente, um insumo ou um serviço terceirizado.\n\nO checklist ajuda a registrar *quanto custa, como é usado e quem acompanha*. 📌\n\nSalve o card e preencha as respostas sobre uma despesa que você já consiga consultar.",
+      "dependencias": "Produzir CARD01.",
+      "objetivo": "Gerar utilidade imediata com uma revisão delimitada.",
+      "cta": "Salvar e aplicar o checklist a uma despesa.",
+      "formato": "Card checklist",
+      "criativo": "CARD01",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Reações; relatos espontâneos de aplicação.",
+      "regra": "Não tratar salvamentos como métrica disponível no WhatsApp. O exercício orienta investigação; não recomenda cortar despesa sem avaliar impacto.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB04",
+      "data": "2026-10-13",
+      "dia": "Terça",
+      "hora": "10:00",
+      "etapa": "Aplicação",
+      "tema": "Quem assume o próximo contato",
+      "gancho": "Um pedido de informação chegou à clínica. A primeira pessoa respondeu. *Quem acompanha o próximo passo?*",
+      "mensagem": "Um pedido de informação chegou à clínica. A primeira pessoa respondeu. *Quem acompanha o próximo passo?*\n\nNo áudio, mostro como observar a passagem de uma conversa entre pessoas da equipe.\n\nDepois de ouvir, escolha um contato recente e veja se estava claro quem deveria retomá-lo.",
+      "dependencias": "Gravar AUD01.",
+      "objetivo": "Reconhecer uma falha de acompanhamento sem culpabilizar a equipe.",
+      "cta": "Verificar quem assumiu o próximo passo de um contato.",
+      "formato": "Áudio de 45 a 60s",
+      "criativo": "AUD01",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Reações e dúvidas enviadas à administração.",
+      "regra": "Observar apenas o processo. Não solicitar nomes, dados ou capturas de conversas de pacientes. A situação prepara o quiz HB05.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB05",
+      "data": "2026-10-15",
+      "dia": "Quinta",
+      "hora": "18:00",
+      "etapa": "Interação",
+      "tema": "Uma conversa sem retorno",
+      "gancho": "*Qual seria o primeiro ponto a conferir nesta situação?*",
+      "mensagem": "*Qual seria o primeiro ponto a conferir nesta situação?*\n\nExemplo hipotético: uma pessoa pede informações sobre um serviço, recebe a resposta e diz que vai pensar. Três dias depois, ninguém da equipe sabe se houve novo contato.\n\nVote na enquete. Amanhã, vou explicar a escolha e deixar um roteiro curto para acompanhar essas conversas.",
+      "dependencias": "Configurar ENQ02 e deixar CAR01 aprovado para o dia seguinte.",
+      "objetivo": "Exercitar julgamento e criar continuidade com entrega concreta.",
+      "cta": "Escolher uma opção do quiz.",
+      "formato": "Quiz em enquete",
+      "criativo": "ENQ02",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Votos por alternativa; dúvidas sobre acompanhamento.",
+      "regra": "Não apresentar como caso da Human. HB06 deve ser enviado no dia seguinte para concluir o raciocínio, qualquer que seja a opção mais votada.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB06",
+      "data": "2026-10-16",
+      "dia": "Sexta",
+      "hora": "10:00",
+      "etapa": "Resposta",
+      "tema": "O que conferir primeiro",
+      "gancho": "No exemplo de ontem, eu começaria conferindo *quem ficou responsável pelo próximo contato e quando ele deveria acontecer*.",
+      "mensagem": "No exemplo de ontem, eu começaria conferindo *quem ficou responsável pelo próximo contato e quando ele deveria acontecer*.\n\nAntes de interpretar o silêncio da pessoa, a equipe precisa conseguir consultar o que foi combinado.\n\nOrganizei o acompanhamento em três cards: responsável, próximo passo e registro.\n\nEscolha uma conversa em andamento e verifique se essas três informações estão disponíveis.",
+      "dependencias": "Produzir CAR01 com três cards numerados.",
+      "objetivo": "Concluir o quiz; transformar curiosidade em aplicação.",
+      "cta": "Conferir responsável, próximo passo e registro.",
+      "formato": "Sequência de 3 cards",
+      "criativo": "CAR01",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Reações; dúvidas práticas recebidas após a resposta.",
+      "regra": "Enviar os três cards juntos em um único envio. A alternativa B é a escolha explicada, sem atribuir erro ou mérito aos votantes.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB07",
+      "data": "2026-10-19",
+      "dia": "Segunda",
+      "hora": "10:00",
+      "etapa": "Ferramenta",
+      "tema": "Registro semanal da operação",
+      "gancho": "Você consegue consultar estes três números da clínica toda semana?",
+      "mensagem": "Você consegue consultar estes três números da clínica toda semana?\n\n*Valores recebidos, pagamentos realizados e atendimentos realizados.*\n\nA ficha ajuda a começar um registro simples. Recebimentos e pagamentos mostram o movimento do caixa; a apuração do lucro exige uma análise própria.\n\nEscolha quem vai atualizar a ficha e marque a primeira revisão. 📝",
+      "dependencias": "Produzir CARD02.",
+      "objetivo": "Dar clareza sobre acompanhamento básico e responsabilidade.",
+      "cta": "Definir quem atualiza a ficha e a data da revisão.",
+      "formato": "Ficha visual para preencher",
+      "criativo": "CARD02",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Reações; relatos voluntários de responsável e revisão definidos.",
+      "regra": "Não pedir valores da clínica no grupo. A ficha não é DRE e não calcula lucro. Não prometer material editável ou anexo que não foi produzido.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB08",
+      "data": "2026-10-21",
+      "dia": "Quarta",
+      "hora": "18:00",
+      "etapa": "Decisão",
+      "tema": "A compra cabe na operação?",
+      "gancho": "Uma máquina nova muda a rotina de quem atende, agenda, treina e acompanha os custos.",
+      "mensagem": "Uma máquina nova muda a rotina de quem atende, agenda, treina e acompanha os custos.\n\nNeste vídeo, uso um quadro simples para organizar *o que conferir antes de decidir pela compra*.\n\nSe houver um investimento em análise na sua clínica, anote qual informação ainda falta para decidir.",
+      "dependencias": "Gravar VID02 com quadro ou folha legível.",
+      "objetivo": "Demonstrar critérios de gestão aplicados a uma decisão concreta.",
+      "cta": "Anotar a informação que falta sobre um investimento.",
+      "formato": "Vídeo demonstrativo de 60 a 75s",
+      "criativo": "VID02",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Dúvidas qualificadas e reações; visualizações quando disponíveis.",
+      "regra": "Gravar a demonstração com critérios, sem citar equipamento, preço, resultado ou experiência não fornecidos. Não pedir informação comercial sensível.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB09",
+      "data": "2026-10-23",
+      "dia": "Sexta",
+      "hora": "10:00",
+      "etapa": "Ativação",
+      "tema": "Uma ação até quarta-feira",
+      "gancho": "*Escolha uma ação para concluir até quarta-feira.* 🎯",
+      "mensagem": "*Escolha uma ação para concluir até quarta-feira.* 🎯\n\nVocê pode revisar uma despesa, definir quem acompanha um contato ou começar o registro semanal da clínica.\n\nAnote no seu bloco:\n• O que vou fazer?\n• Quem participa?\n• Quando vou conferir?\n\nEscolha algo que caiba na sua rotina. Na quarta, teremos uma enquete para entender como foi a aplicação.",
+      "dependencias": "Enquete ENQ03 prevista para 28/10.",
+      "objetivo": "Passar da intenção para uma ação delimitada.",
+      "cta": "Registrar uma ação com responsável e prazo.",
+      "formato": "Desafio de aplicação",
+      "criativo": null,
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Respostas à enquete de aplicação em HB11.",
+      "regra": "Não abrir uma cobrança diária. HB10 oferece apoio para revisar o combinado; HB11 encerra o desafio.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB10",
+      "data": "2026-10-26",
+      "dia": "Segunda",
+      "hora": "10:00",
+      "etapa": "Acompanhamento",
+      "tema": "Reunião com próximo passo",
+      "gancho": "Para acompanhar a ação que você escolheu na sexta, reserve uma conversa curta com quem participa dela.",
+      "mensagem": "Para acompanhar a ação que você escolheu na sexta, reserve uma conversa curta com quem participa dela.\n\nNo áudio, explico como terminar essa conversa com *um próximo passo, um responsável e uma data*.\n\nUse o roteiro na revisão desta semana.",
+      "dependencias": "Gravar AUD02.",
+      "objetivo": "Reduzir a dificuldade de acompanhar a execução.",
+      "cta": "Usar o roteiro na revisão da ação escolhida.",
+      "formato": "Áudio de 45 a 60s",
+      "criativo": "AUD02",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Reações; dúvidas de implementação.",
+      "regra": "Se a pessoa ainda não começou, o roteiro serve para combinar a primeira ação. Não pressupor que todos fizeram o desafio.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB11",
+      "data": "2026-10-28",
+      "dia": "Quarta",
+      "hora": "18:00",
+      "etapa": "Retorno",
+      "tema": "Como foi a aplicação?",
+      "gancho": "*Como ficou a ação que você escolheu na sexta-feira?*",
+      "mensagem": "*Como ficou a ação que você escolheu na sexta-feira?*\n\nPode ser a revisão de uma despesa, o acompanhamento de um contato ou o registro dos números da clínica.\n\nVote na opção que descreve seu momento. Se você começou a acompanhar a comunidade agora, pode escolher essa alternativa também.",
+      "dependencias": "Configurar ENQ03.",
+      "objetivo": "Obter retorno de aplicação e reativar quem chegou depois.",
+      "cta": "Votar sobre o estágio da ação.",
+      "formato": "Enquete de acompanhamento",
+      "criativo": "ENQ03",
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Distribuição entre concluída, em andamento, não iniciada e recém-chegados.",
+      "regra": "Registrar resultado antes de HB12. Não transformar falta de execução em culpa. Usar respostas para planejar os temas seguintes.",
+      "apoios": []
+    },
+    {
+      "codigo": "HB12",
+      "data": "2026-10-30",
+      "dia": "Sexta",
+      "hora": "10:00",
+      "etapa": "Continuidade",
+      "tema": "O próximo passo na gestão",
+      "gancho": "Se você entrou agora ou acompanhou só parte do mês, pode começar por *uma decisão da sua clínica*:",
+      "mensagem": "Se você entrou agora ou acompanhou só parte do mês, pode começar por *uma decisão da sua clínica*:\n\n• Revisar uma despesa com os dados em mãos.\n• Definir quem acompanha cada contato.\n• Registrar os números da semana e marcar a revisão.\n\nEscolha o ponto que mais precisa de atenção hoje.\n\nPara quem quer conhecer uma possibilidade de acompanhamento, a *Mentoria Health*, conduzida pelo Dr. Ivan, trabalha temas de gestão de clínicas e consultórios.\n\nSe quiser entender o formato e as condições atuais, envie *MENTORIA* no privado para a administração desta comunidade. A equipe poderá explicar a proposta e avaliar com você se ela faz sentido para o seu momento.",
+      "dependencias": "Confirmar condições atuais e responsável pelo atendimento privado.",
+      "objetivo": "Reativar leitores e abrir conversa comercial por iniciativa do interessado.",
+      "cta": "Enviar MENTORIA no privado, se houver interesse.",
+      "formato": "Texto de síntese e convite",
+      "criativo": null,
+      "execucao": "Administração",
+      "status": "A fazer",
+      "aprovacao": "Pendente",
+      "medicao": "Pedidos de informação; conversas qualificadas; encaminhamentos aceitos.",
+      "regra": "Não citar preço de setembro, bônus, prazo ou vagas. Usar AP03 somente após a pessoa iniciar o contato. Se o atendimento não estiver definido, usar a alternativa AP06.",
+      "apoios": [
+        "AP03",
+        "AP06"
+      ]
+    }
+  ],
+  "producao": [
+    {
+      "codigo": "ENQ01",
+      "disparo": "HB01",
+      "enviarEm": "2026-10-05",
+      "formato": "Enquete nativa",
+      "texto": "Pergunta: Qual ponto mais pede atenção na sua clínica hoje?\n1. Decisões que dependem do dono\n2. Custos pouco acompanhados\n3. Falhas na rotina da equipe\n4. Falta de números para decidir",
+      "direcao": "Uma resposta por participante. Enviar logo após HB01. Registrar votos em 24h.",
+      "responsavel": "Administração",
+      "status": "Pendente",
+      "alternativa": "Sem enquete: enviar as quatro opções em texto e pedir uma resposta no privado à administração. Usar somente um canal de resposta."
+    },
+    {
+      "codigo": "VID01",
+      "disparo": "HB02",
+      "enviarEm": "2026-10-07",
+      "formato": "Vídeo 45 a 60s",
+      "texto": "Se você precisasse ficar cinco dias fora da clínica, quais decisões esperariam sua volta? Pode ser uma alteração na agenda, uma compra ou uma dúvida de atendimento.\n\nEscolha uma situação e veja o que impede outra pessoa de decidir. Falta um critério? Falta acesso à informação? Ou ainda não foi combinado quem assume essa responsabilidade?\n\nEssa observação ajuda a escolher o próximo passo. Anote uma decisão e o que alguém precisaria saber para conduzi-la. Vamos usar esse ponto como referência ao longo do mês.",
+      "direcao": "Vertical, câmera na altura dos olhos, som limpo e legendas integrais. Destacar na tela: critério, informação, responsável. Se houver dados da enquete, Ivan pode acrescentar uma frase factual sobre a opção mais votada. Não criar bastidor ou história pessoal.",
+      "responsavel": "Ivan + edição",
+      "status": "A gravar",
+      "alternativa": "Se você precisasse ficar cinco dias fora da clínica, *qual decisão esperaria sua volta?*\n\nEscolha uma situação e confira se falta um critério, acesso à informação ou alguém responsável por decidir.\n\nAnote a decisão e o que outra pessoa precisaria saber para conduzi-la."
+    },
+    {
+      "codigo": "CARD01",
+      "disparo": "HB03",
+      "enviarEm": "2026-10-09",
+      "formato": "Card 1080 × 1350",
+      "texto": "REVISÃO DE UMA DESPESA\n\nDespesa escolhida: __________\nValor e frequência: __________\nComo é usada na operação: __________\nQuem acompanha: __________\nÚltima revisão: __________\n\nO que precisa ser conferido antes de decidir? __________",
+      "direcao": "Uma peça legível no celular, com espaços para anotação em papel ou cópia no bloco de notas. Hierarquia clara entre título, campos e pergunta final. Evitar letra pequena.",
+      "responsavel": "Criação + revisão Ivan",
+      "status": "A produzir",
+      "alternativa": "Escolha *uma despesa da clínica* para revisar.\n\nAnote valor e frequência, como ela é usada, quem acompanha e quando foi revista.\n\nDepois, registre o que ainda precisa conferir antes de tomar uma decisão. 📌"
+    },
+    {
+      "codigo": "AUD01",
+      "disparo": "HB04",
+      "enviarEm": "2026-10-13",
+      "formato": "Áudio 45 a 60s",
+      "texto": "Escolha um contato recente de alguém que pediu informações à clínica. Observe quem recebeu a mensagem, quem respondeu e qual foi o próximo passo combinado.\n\nQuando a conversa passa de uma pessoa para outra, é útil registrar quem assume o acompanhamento e quando vai retomá-lo. Assim, a equipe consegue consultar o que aconteceu.\n\nFaça essa revisão com um contato, olhando para o processo. Se faltar um responsável ou uma data, combine isso com as pessoas envolvidas.",
+      "direcao": "Gravação real do Ivan, sem música. Fazer pequenas pausas. Não ler nomes ou conversas de pacientes. Enviar o texto de apoio junto do áudio para que o tema fique compreensível sem reprodução.",
+      "responsavel": "Ivan",
+      "status": "A gravar",
+      "alternativa": "Escolha um contato recente e confira *quem recebeu, quem respondeu e quem ficou com o próximo passo*.\n\nSe a conversa passou por mais de uma pessoa, veja se o responsável e a data de retorno ficaram registrados. Combine com a equipe o que estiver faltando."
+    },
+    {
+      "codigo": "ENQ02",
+      "disparo": "HB05",
+      "enviarEm": "2026-10-15",
+      "formato": "Quiz em enquete",
+      "texto": "Pergunta: O que você conferiria primeiro no exemplo?\nA. Se é o momento de oferecer um desconto\nB. Quem ficou com o retorno e a data combinada\nC. Se a clínica precisa de mais divulgação\nD. Se a pessoa perdeu o interesse",
+      "direcao": "Resposta única. O caso é hipotético. A resposta comentada será HB06, com CAR01, no dia seguinte. Não anunciar vencedor ou pontuação.",
+      "responsavel": "Administração",
+      "status": "Pendente",
+      "alternativa": "Sem enquete: enviar as opções com o caso e pedir que cada pessoa escolha mentalmente uma delas; entregar a explicação em HB06."
+    },
+    {
+      "codigo": "CAR01",
+      "disparo": "HB06",
+      "enviarEm": "2026-10-16",
+      "formato": "Sequência de 3 cards",
+      "texto": "CARD 1 DE 3\nQUEM ASSUME?\nEm cada conversa em andamento, registre quem acompanha o próximo passo.\nSe houver troca de responsável, confirme que a pessoa recebeu o contexto.\n\nCARD 2 DE 3\nQUAL É O PRÓXIMO PASSO?\nAnote o que foi combinado e quando faz sentido retomar a conversa.\nConsidere a preferência informada pela pessoa.\n\nCARD 3 DE 3\nONDE A EQUIPE CONSULTA?\nUse um registro acessível a quem precisa acompanhar o contato.\nInclua responsável, próximo passo e data.\nAplique em uma conversa em andamento.",
+      "direcao": "Três imagens 1080 × 1350, numeradas e enviadas juntas. Usar diagrama simples com campos genéricos. Não usar captura real de conversa.",
+      "responsavel": "Criação + revisão Ivan",
+      "status": "A produzir",
+      "alternativa": "No exemplo de ontem, eu começaria por *quem ficou responsável pelo retorno e quando ele deveria acontecer*.\n\nPara acompanhar uma conversa, registre: responsável, próximo passo combinado e data.\n\nEscolha um contato em andamento e confira se a equipe consegue consultar essas informações."
+    },
+    {
+      "codigo": "CARD02",
+      "disparo": "HB07",
+      "enviarEm": "2026-10-19",
+      "formato": "Ficha 1080 × 1350",
+      "texto": "REGISTRO SEMANAL DA CLÍNICA\n\nPeríodo: ____ a ____\nValores recebidos: __________\nPagamentos realizados: __________\nAtendimentos realizados: __________\nResponsável pelo registro: __________\nData da revisão: __________\nPonto a investigar: __________\n\nRecebimentos e pagamentos acompanham o caixa. Esta ficha não apura o lucro.",
+      "direcao": "Uma ficha visual com campos amplos e nota final legível. Membro pode copiar o modelo no próprio controle. Não anunciar como arquivo editável.",
+      "responsavel": "Criação + revisão Ivan",
+      "status": "A produzir",
+      "alternativa": "Comece um *registro semanal da clínica* com o período, os valores recebidos, os pagamentos realizados e os atendimentos realizados.\n\nDefina quem atualiza e quando será a revisão. 📝\n\nRecebimentos e pagamentos acompanham o caixa. A apuração do lucro exige uma análise própria."
+    },
+    {
+      "codigo": "VID02",
+      "disparo": "HB08",
+      "enviarEm": "2026-10-21",
+      "formato": "Vídeo demonstrativo 60 a 75s",
+      "texto": "Antes de decidir pela compra de uma máquina, eu organizaria a análise em quatro perguntas.\n\n[Escrever no quadro: DEMANDA.] Que demanda existe e quais informações sustentam essa expectativa?\n\n[Escrever: OPERAÇÃO.] Quem vai operar, qual treinamento será necessário e como a agenda vai absorver esse trabalho?\n\n[Escrever: CUSTO TOTAL.] Quais são os custos de aquisição, insumos e manutenção previstos nas condições da compra?\n\n[Escrever: ESTRUTURA.] O espaço e a rotina da clínica comportam o equipamento?\n\nSe existe uma compra em análise, escolha a pergunta que você ainda não consegue responder. Essa informação precisa entrar na conversa antes da decisão.",
+      "direcao": "Ivan com quadro ou folha; câmera deve permitir ler as quatro perguntas. Legendas integrais. Não usar números fictícios, imagens de pacientes ou marcas. Quatro palavras na tela: demanda, operação, custo total, estrutura.",
+      "responsavel": "Ivan + edição",
+      "status": "A gravar",
+      "alternativa": "Antes de comprar uma máquina, registre *demanda, operação, custo total e estrutura*.\n\nConfira quais informações sustentam a demanda, quem vai operar, os custos previstos e se o espaço comporta o equipamento.\n\nQual dessas informações ainda falta para avaliar a compra? Anote e busque a resposta antes de decidir."
+    },
+    {
+      "codigo": "AUD02",
+      "disparo": "HB10",
+      "enviarEm": "2026-10-26",
+      "formato": "Áudio 45 a 60s",
+      "texto": "Retome a ação que você escolheu na sexta. Se ainda não começou, use essa conversa para combinar o primeiro passo.\n\nReserve 15 minutos com quem participa da ação e faça três perguntas: o que estava combinado? O que aconteceu e o que ficou pendente? Quem fará o próximo passo e até quando?\n\nRegistre a decisão onde as pessoas envolvidas consigam consultar. Na revisão seguinte, volte a esse registro. Isso ajuda a acompanhar o trabalho e identificar o que precisa de apoio.",
+      "direcao": "Áudio real, tom de conversa e sem trilha. Não presumir que todos cumpriram a atividade. Enviar junto do texto de apoio HB10.",
+      "responsavel": "Ivan",
+      "status": "A gravar",
+      "alternativa": "Retome a ação que você escolheu na sexta e reserve *15 minutos com quem participa dela*.\n\nPergunte: o que estava combinado? O que aconteceu e o que ficou pendente? Quem fará o próximo passo e até quando?\n\nRegistre a decisão para consultar na próxima revisão."
+    },
+    {
+      "codigo": "ENQ03",
+      "disparo": "HB11",
+      "enviarEm": "2026-10-28",
+      "formato": "Enquete nativa",
+      "texto": "Pergunta: Em que ponto ficou sua ação?\n1. Concluí e defini como acompanhar\n2. Comecei e ainda estou fazendo\n3. Escolhi, mas ainda não comecei\n4. Cheguei agora e vou escolher uma ação",
+      "direcao": "Resposta única. Encerrar o ciclo do desafio sem cobranças individuais. Separar dificuldade de começar de dificuldade de concluir. Usar o resultado no planejamento seguinte.",
+      "responsavel": "Administração",
+      "status": "Pendente",
+      "alternativa": "Sem enquete: pedir uma reação de quem conseguiu iniciar a ação, sem cobrar resposta de quem não iniciou. Não inferir conclusão a partir da reação."
+    }
+  ],
+  "apoio": [
+    {
+      "codigo": "AP01",
+      "quando": "Boas-vindas fixa",
+      "mensagem": "*Bem-vindo à comunidade Health Business.*\n\nAqui vamos conversar sobre decisões da rotina de clínicas e consultórios: custos, equipe, agenda, processos e acompanhamento dos números.\n\nEm outubro, os conteúdos chegam três vezes por semana, com exercícios curtos, áudios, vídeos e materiais de apoio.\n\nPara começar, pense em uma decisão da clínica que está sendo adiada. Você pode usá-la como referência para aplicar os conteúdos.",
+      "objetivo": "Reduzir estranhamento e entregar uma forma de acompanhar.",
+      "regra": "Fixar uma vez. Não repetir a cada entrada no canal de avisos. Publicar junto do início do calendário."
+    },
+    {
+      "codigo": "AP02",
+      "quando": "Membro pede ajuda no privado",
+      "mensagem": "Para entender melhor sua dúvida, *qual situação da rotina você está tentando organizar?*\n\nPode descrever em uma frase, sem enviar nomes ou dados de pacientes.",
+      "objetivo": "Entender a dúvida antes de responder.",
+      "regra": "Usar apenas após contato do membro. Classificar por custos, equipe, agenda ou números. Responder ao caso; não prometer análise individual do Ivan."
+    },
+    {
+      "codigo": "AP03",
+      "quando": "Membro envia MENTORIA",
+      "mensagem": "Olá! Você pediu informações sobre a *Mentoria Health*.\n\nQual ponto da gestão da sua clínica você quer organizar agora? Com esse contexto, consigo direcionar sua dúvida para a pessoa responsável por explicar o formato e as condições atuais.",
+      "objetivo": "Qualificar a solicitação comercial iniciada pelo membro.",
+      "regra": "Confirmar responsável comercial antes de HB12. Não apresentar valores ou escopo não atualizados. Registrar pedido e próximo passo; não considerar pedido como venda."
+    },
+    {
+      "codigo": "AP04",
+      "quando": "Membro relata que não conseguiu começar",
+      "mensagem": "O que dificultou começar: *tempo, informação ou definição de quem faria a ação?*\n\nCom essa resposta, podemos pensar em um primeiro passo que caiba na sua rotina.",
+      "objetivo": "Identificar a barreira sem pressão.",
+      "regra": "Usar apenas se a pessoa trouxer essa dificuldade no privado. Não abordar individualmente todos que marcaram a opção da enquete."
+    },
+    {
+      "codigo": "AP05",
+      "quando": "Membro relata uma ação concluída",
+      "mensagem": "Obrigado por contar. *Como você vai acompanhar essa mudança nas próximas semanas?*\n\nRegistrar uma data de revisão ajuda a perceber o que funcionou e o que precisa de ajuste.",
+      "objetivo": "Transformar uma ação isolada em acompanhamento.",
+      "regra": "Usar em resposta ao relato. Qualquer uso público do relato exige autorização; não transformar relato em depoimento de resultado sem evidência."
+    },
+    {
+      "codigo": "AP06",
+      "quando": "Alternativa HB12 sem atendimento comercial definido",
+      "mensagem": "Se você entrou agora ou acompanhou só parte do mês, pode começar por *uma decisão da sua clínica*:\n\n• Revisar uma despesa com os dados em mãos.\n• Definir quem acompanha cada contato.\n• Registrar os números da semana e marcar a revisão.\n\nEscolha o ponto que mais precisa de atenção e anote a data em que vai conferir o próximo passo.",
+      "objetivo": "Encerrar o mês com utilidade quando não houver atendimento para a oferta.",
+      "regra": "Substitui HB12 integralmente se o responsável comercial não estiver definido. Não enviar os dois textos."
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "CK-01",
+      "data": "2026-10-06",
+      "titulo": "Leitura da enquete ENQ01",
+      "canal": "Comunidade",
+      "verificar": "Votos por opção e participantes únicos da enquete de HB01, registrados em 24h.",
+      "decisao": "Usar a prioridade mais votada para escolher a ênfase da abertura do vídeo VID01 (HB02). Não afirmar um resultado sem conferir."
+    },
+    {
+      "id": "CK-02",
+      "data": "2026-10-09",
+      "titulo": "Primeira semana (HB01 a HB03)",
+      "canal": "Comunidade",
+      "verificar": "Votos, reações, saídas, dúvidas e pedidos comerciais dos três primeiros disparos. Visualizações somente quando disponíveis.",
+      "decisao": "Se votos e reações caírem por dois envios comparáveis e as saídas crescerem, revisar a relevância e reduzir um envio seguinte."
+    },
+    {
+      "id": "CK-03",
+      "data": "2026-10-16",
+      "titulo": "Segunda semana (HB04 a HB06)",
+      "canal": "Comunidade",
+      "verificar": "Votos do quiz ENQ02, reações, saídas, dúvidas sobre acompanhamento e pedidos comerciais.",
+      "decisao": "Dúvidas recorrentes viram tema da próxima produção ainda não gravada. Não alterar promessas de retorno já feitas."
+    },
+    {
+      "id": "CK-04",
+      "data": "2026-10-19",
+      "titulo": "Revisão dos horários (10h e 18h)",
+      "canal": "Comunidade",
+      "verificar": "Comparar votos e reações entre os envios das 10h e das 18h, depois de duas semanas com dados comparáveis.",
+      "decisao": "Os horários são hipóteses iniciais, sem histórico. Manter, trocar ou testar outro horário."
+    },
+    {
+      "id": "CK-05",
+      "data": "2026-10-23",
+      "titulo": "Terceira semana (HB07 a HB09)",
+      "canal": "Comunidade",
+      "verificar": "Reações, saídas, dúvidas práticas e pedidos comerciais após a ficha de registro, o vídeo de decisão e o desafio.",
+      "decisao": "Se houver dúvidas recorrentes, usar o tema na próxima produção ainda não gravada."
+    },
+    {
+      "id": "CK-06",
+      "data": "2026-10-29",
+      "titulo": "Leitura da enquete ENQ03",
+      "canal": "Comunidade",
+      "verificar": "Distribuição entre ação concluída, em andamento, não iniciada e recém-chegados.",
+      "decisao": "Registrar o resultado antes de HB12. Não transformar falta de execução em culpa; usar as respostas para planejar os temas seguintes."
+    },
+    {
+      "id": "CK-07",
+      "data": "2026-10-30",
+      "titulo": "Fechamento de outubro",
+      "canal": "Comunidade",
+      "verificar": "Pedidos de MENTORIA no privado, conversas qualificadas, encaminhamentos aceitos, saídas e dúvidas do mês.",
+      "decisao": "Pedido de informação não é venda: registrar o pedido e o próximo passo. Usar as respostas para planejar novembro."
+    }
+  ],
+  "geradoEm": "2026-10-03T21:44:56.765Z"
+}

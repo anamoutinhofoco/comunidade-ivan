@@ -1,0 +1,14 @@
+{
+  "name": "central-dr-ivan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Central do projeto Dr. Ivan Rollemberg (Método Human e Health Business): painel de status, agenda de disparos e planejamento de outubro de 2026 (Foco › Comunidade Saúde).",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/gerar-dados.mjs",
+    "dev": "node scripts/gerar-dados.mjs && node scripts/servidor.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
